@@ -31,7 +31,7 @@ npm install
 4. **Run the bot:**
 
 ```sh
-   node bot.js
+npm start
 ```
 
 ## Usage
