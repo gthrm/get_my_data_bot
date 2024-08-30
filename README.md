@@ -21,7 +21,7 @@ cd get_my_data_bot
 
 2. **Install dependencies:**
 
-````sh
+```sh
 npm install
 ```
 
