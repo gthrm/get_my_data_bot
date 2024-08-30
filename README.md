@@ -30,7 +30,7 @@ npm install
 
 4. **Run the bot:**
 
-````sh
+```sh
    node bot.js
 ```
 
